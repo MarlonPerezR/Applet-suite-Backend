@@ -70,16 +70,16 @@ Example:
 
 application.properties
 
-# YouTube API Configuration
+YouTube API Configuration
 youtube.api.key=TU_CLAVE_YOUTUBE_AQUI
 
-# Google Gemini Configuration
+Google Gemini Configuration
 google.api.key=TU_CLAVE_GEMINI_AQUI
 
-# OMDB API Configuration
+OMDB API Configuration
 omdb.apikey=TU_CLAVE_OMDB_AQUI
 
-# WeatherAPI Configuration
+WeatherAPI Configuration
 weatherapi.key=TU_CLAVE_WEATHER_AQUI
 
 See the file:
