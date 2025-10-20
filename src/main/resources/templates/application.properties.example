@@ -1,0 +1,18 @@
+server.port=8080
+spring.application.name=applet-backend
+
+# RestTemplate Configuration
+spring.web.client.rest-template.read-timeout=5000
+spring.web.client.rest-template.connect-timeout=3000
+
+# YouTube API Configuration
+youtube.api.key=TU_CLAVE_YOUTUBE_AQUI
+
+# Google Gemini Configuration
+google.api.key=TU_CLAVE_GEMINI_AQUI
+
+# OMDB API Configuration
+omdb.apikey=TU_CLAVE_OMDB_AQUI
+
+# WeatherAPI Configuration
+weatherapi.key=TU_CLAVE_WEATHER_AQUI

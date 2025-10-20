@@ -1,0 +1,52 @@
+{"properties": [
+  {
+    "name": "openweather.api.key",
+    "type": "java.lang.String",
+    "description": "A description for 'openweather.api.key'"
+  },
+  {
+    "name": "openweather.api.url",
+    "type": "java.lang.String",
+    "description": "A description for 'openweather.api.url'"
+  },
+  {
+    "name": "spring.web.client.rest-template.read-timeout",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.web.client.rest-template.read-timeout'"
+  },
+  {
+    "name": "spring.web.client.rest-template.connect-timeout",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.web.client.rest-template.connect-timeout'"
+  },
+  {
+    "name": "omdb.apikey",
+    "type": "java.lang.String",
+    "description": "A description for 'omdb.apikey'"
+  },
+  {
+    "name": "openweather.apikey",
+    "type": "java.lang.String",
+    "description": "A description for 'openweather.apikey'"
+  },
+  {
+    "name": "weatherapi.key",
+    "type": "java.lang.String",
+    "description": "A description for 'weatherapi.key'"
+  },
+  {
+    "name": "youtube.api.key",
+    "type": "java.lang.String",
+    "description": "A description for 'youtube.api.key'"
+  },
+  {
+    "name": "google.api.key",
+    "type": "java.lang.String",
+    "description": "A description for 'google.api.key'"
+  },
+  {
+    "name": "app.chatbot.fallback-enabled",
+    "type": "java.lang.String",
+    "description": "A description for 'app.chatbot.fallback-enabled'"
+  }
+]}
