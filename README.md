@@ -18,7 +18,6 @@ This backend provides secure and fast communication for all applets in the **App
 - 🧩 Configurable environment through `application.properties`  
 ---
 ## 🧱 Project Structure
-bash
 ```
 Backend/
 ├── src/
