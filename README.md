@@ -35,9 +35,9 @@ Backend/
 │       │   │   └── ReproductorController.java
 │       │   ├── models/                     # Request and response objects
 │       │   │   ├── BotRequest.java
-│       │   │   └── BotResponse.java                        
+│       │   │   └── BotResponse.java
 │       │   ├── service/                    # Business logic (e.g., ChatbotService.java)
-│       │   │   └── ChatbotService.java    
+│       │   │   └── ChatbotService.java
 │       │   └── AppletsApplication.java     # Spring Boot main class
 │       └── resources/
 │           ├── static/                     # Static assets (if needed)
@@ -46,6 +46,7 @@ Backend/
 ├── .env                                    # Local environment variables (not uploaded)
 ├── .gitignore
 └── HELP.md
+
 
 ---
 
