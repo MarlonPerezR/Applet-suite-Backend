@@ -18,7 +18,8 @@ This backend provides secure and fast communication for all applets in the **App
 - 🧩 Configurable environment through `application.properties`  
 ---
 ## 🧱 Project Structure
-
+bash
+```
 Backend/
 ├── src/
 │   └── main/
@@ -46,6 +47,7 @@ Backend/
 ├── .env                                    # Local environment variables (not uploaded)
 ├── .gitignore
 └── HELP.md
+```
 
 ---
 
