@@ -18,7 +18,6 @@ This backend provides secure and fast communication for all applets in the **App
 - 🧩 Configurable environment through `application.properties`  
 ---
 ## 🧱 Project Structure
-bash
 ```
 Backend/
 ├── src/
@@ -71,16 +70,16 @@ Example:
 
 application.properties
 
-# YouTube API Configuration
+YouTube API Configuration
 youtube.api.key=TU_CLAVE_YOUTUBE_AQUI
 
-# Google Gemini Configuration
+Google Gemini Configuration
 google.api.key=TU_CLAVE_GEMINI_AQUI
 
-# OMDB API Configuration
+OMDB API Configuration
 omdb.apikey=TU_CLAVE_OMDB_AQUI
 
-# WeatherAPI Configuration
+WeatherAPI Configuration
 weatherapi.key=TU_CLAVE_WEATHER_AQUI
 
 See the file:
@@ -108,8 +107,8 @@ The backend will be available at:
 http://localhost:8080
 
 ---
-
 ## 👥 Developed By
+
 Marlon Pérez R.
 
 https://portfolio-mu-fawn-47.vercel.app/
@@ -117,3 +116,8 @@ https://portfolio-mu-fawn-47.vercel.app/
 https://github.com/MarlonPerezR
 
 https://www.linkedin.com/in/marlonpérez/
+
+## 📄 License
+
+This project is for personal use. © 2025 Marlon Pérez - All rights reserved.
+
