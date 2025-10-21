@@ -8,3 +8,5 @@ services:
     envVars:
       - key: SPRING_PROFILES_ACTIVE
         value: render
+      - key: JAVA_VERSION
+        value: 21
